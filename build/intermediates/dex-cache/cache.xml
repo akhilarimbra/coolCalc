@@ -16,7 +16,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="9e59f22ff734d4e456a8457258915ce689d36af4">
+        sha1="d0e08ed366f86a5f61bba83e65455ee5bad13761">
         <dex dex="/Users/akhilraj/AndroidStudioProjects/CoolCalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8f4e0948da78816d8bd528ce436b558c8909b22f/classes.dex" />
     </item>
     <item
@@ -106,7 +106,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="45eca90e8987709c21e82c452bb9bfcfb7514b36">
+        sha1="2380ccb41601382a63278f9bdf422417f3eff9d3">
         <dex dex="/Users/akhilraj/AndroidStudioProjects/CoolCalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a1414b34d63ea178de86d4c6a6584910298e551a/classes.dex" />
     </item>
     <item
