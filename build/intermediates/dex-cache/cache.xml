@@ -16,26 +16,8 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="97dd89088bebbac44d8739daa5d240844a866b43">
+        sha1="9e59f22ff734d4e456a8457258915ce689d36af4">
         <dex dex="/Users/akhilraj/AndroidStudioProjects/CoolCalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8f4e0948da78816d8bd528ce436b558c8909b22f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/akhilraj/AndroidStudioProjects/CoolCalc/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/akhilraj/AndroidStudioProjects/CoolCalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_db7acbfb85d3074f7a1af3a7db5aca78496dfed3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/akhilraj/AndroidStudioProjects/CoolCalc/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="4ca8d061fd3f2d710228a563b23bc26f717d506f">
-        <dex dex="/Users/akhilraj/AndroidStudioProjects/CoolCalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a1414b34d63ea178de86d4c6a6584910298e551a/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -63,33 +45,6 @@
         revision="23.0.2"
         sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
         <dex dex="/Users/akhilraj/AndroidStudioProjects/CoolCalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f6b03f2109b60447ffd2027f3738846ba1d85a14/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/akhilraj/AndroidStudioProjects/CoolCalc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/akhilraj/AndroidStudioProjects/CoolCalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_c6f924ffe504ec37caf1c03e92291d7f61c1ebe2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/akhilraj/AndroidStudioProjects/CoolCalc/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/akhilraj/AndroidStudioProjects/CoolCalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_42692b822dd5067c3004b2aeac1ee9d985ce1030/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/akhilraj/AndroidStudioProjects/CoolCalc/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/akhilraj/AndroidStudioProjects/CoolCalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_159d5772605980b8ae3469671d1198cc50a511fd/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -129,21 +84,66 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/akhilraj/AndroidStudioProjects/CoolCalc/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/akhilraj/AndroidStudioProjects/CoolCalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_9ad1af615d3445f82d0e967183a2a63f826dc980/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/akhilraj/AndroidStudioProjects/CoolCalc/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
         sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
         <dex dex="/Users/akhilraj/AndroidStudioProjects/CoolCalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a21285f672f41eae37bf0c4f0fef00d16d814452/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akhilraj/AndroidStudioProjects/CoolCalc/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/akhilraj/AndroidStudioProjects/CoolCalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_db7acbfb85d3074f7a1af3a7db5aca78496dfed3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akhilraj/AndroidStudioProjects/CoolCalc/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="45eca90e8987709c21e82c452bb9bfcfb7514b36">
+        <dex dex="/Users/akhilraj/AndroidStudioProjects/CoolCalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a1414b34d63ea178de86d4c6a6584910298e551a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akhilraj/AndroidStudioProjects/CoolCalc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/akhilraj/AndroidStudioProjects/CoolCalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_c6f924ffe504ec37caf1c03e92291d7f61c1ebe2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akhilraj/AndroidStudioProjects/CoolCalc/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/akhilraj/AndroidStudioProjects/CoolCalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_42692b822dd5067c3004b2aeac1ee9d985ce1030/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akhilraj/AndroidStudioProjects/CoolCalc/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/akhilraj/AndroidStudioProjects/CoolCalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_159d5772605980b8ae3469671d1198cc50a511fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akhilraj/AndroidStudioProjects/CoolCalc/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/akhilraj/AndroidStudioProjects/CoolCalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_9ad1af615d3445f82d0e967183a2a63f826dc980/classes.dex" />
     </item>
     <item
         is-multidex="true"
